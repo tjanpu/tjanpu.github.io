@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0 Comments","multiple":"{num} Comments","one":"1 Comment"}},"counts":[{"id":"http:\/\/demoly.stania.ga\/2017\/05\/aplikasi-pembayaran-tercepat-di-indonesia","comments":0},{"id":"http:\/\/demoly.stania.ga\/2017\/03\/sarana-pelangi-agen-terpercaya-seasia","comments":0},{"id":"http:\/\/demoly.stania.ga\/2017\/07\/asuransi-kesehatan-terbaik-dan-murah","comments":0},{"id":"http:\/\/demoly.stania.ga\/2017\/04\/wisata-singapura-tempatwisatabizid","comments":0}]});
+}
